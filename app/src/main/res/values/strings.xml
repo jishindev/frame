@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">frame</string>
+    <string name="service_desc">one-tap screenshot</string>
+</resources>
